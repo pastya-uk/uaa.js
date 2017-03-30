@@ -1,5 +1,3 @@
-![](https://cdn.auth0.com/resources/oss-source-large-2x.png)
-
 # uaa.js
 
 [![NPM version][npm-image]][npm-url]
