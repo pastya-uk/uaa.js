@@ -1,0 +1,9 @@
+{
+  "//": "experimental bower support",
+  "name": "uaa.js",
+  "main": "build/uaa.js",
+  "dependencies": { },
+  "ignore": [
+    "test"
+  ]
+}
